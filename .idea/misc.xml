@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.143" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.143" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/drawable-v21/ic_menu_manage.xml" value="0.143" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/drawable-v21/ic_menu_send.xml" value="0.143" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.143" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/drawable/ic_launcher_background.xml" value="0.143" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/activity_doan.xml" value="0.1" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/activity_doanvat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/activity_duong.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/detail_view_thucdon.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/dialog_addupdate.xml" value="0.1" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/dong_update.xml" value="0.1" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/list_monan.xml" value="0.1" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/layout/login_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/menu/add_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/menu/menudd.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android/AppBanHang/app/src/main/res/menu/menuone.xml" value="0.20416666666666666" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/drawable/border_13_white_fill.xml" value="0.209" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/drawable/border_4_gradient_yellow.xml" value="0.209" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/drawable/ic_black_left_arrow.xml" value="0.209" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/drawable/ripple_click_square.xml" value="0.209" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/activity_doan.xml" value="0.18" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/activity_doanvat.xml" value="0.16847826086956522" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/activity_duong.xml" value="0.33" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/activity_view_thucdon.xml" value="0.28229166666666666" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/dong_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/dong_update.xml" value="0.358695652173913" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/list_monan.xml" value="0.25" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/login_activity.xml" value="0.25" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/layout/sign_up_activity.xml" value="0.346875" />
+        <entry key="..\:/AnroidStudioProject/OutSource/AppBanHang/app/src/main/res/menu/menuyeah.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF9F73"
+    android:paddingBottom="12dp"
+    android:orientation="vertical"
+    android:weightSum="5.5"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingHorizontal="12dp"
+        android:background="#27B4C6"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/logo"
+            tools:ignore="NestedWeights" />
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:maxLines="2"
+            android:paddingLeft="20sp"
+            android:paddingTop="20sp"
+            android:text="NHÀ HÀNG MÓN NGON  "
+            android:textAlignment="center"
+            android:textColor="#fdfbfb"
+            android:textSize="26sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:paddingStart="12dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:contentDescription="TODO"
+            android:scaleType="centerCrop"
+            android:src="@drawable/thucdon" />
+
+        <Button
+            android:id="@+id/btndoan"
+            android:layout_width="190dp"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="12dp"
+            android:background="@drawable/border_13_white_fill"
+            android:layout_weight="1"
+            android:textColor="#376167"
+            android:text="Đồ ăn"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:paddingStart="12dp"
+        android:weightSum="4">
+
+        <ImageView
+            android:layout_width="35dp"
+            android:scaleType="centerCrop"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/nuocuong" />
+
+        <Button
+            android:id="@+id/btndouong"
+            android:layout_width="34dp"
+            android:background="@drawable/border_13_white_fill"
+            android:layout_marginHorizontal="12dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:textColor="#376167"
+            android:text="Đồ Uống"
+            android:textSize="18sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:paddingStart="12dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <ImageView
+            android:layout_width="35dp"
+            android:scaleType="centerCrop"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/doanvat" />
+
+        <Button
+            android:id="@+id/btndoanvat"
+            android:layout_width="109dp"
+            android:layout_marginHorizontal="12dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/border_13_white_fill"
+            android:layout_weight="2"
+            android:textColor="#376167"
+            android:text="Đồ ăn vặt "
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:paddingStart="12dp"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:scaleType="centerInside"
+            android:layout_weight="1"
+            android:src="@drawable/tintuc" />
+
+        <Button
+            android:id="@+id/btnTintuc"
+            android:layout_width="106dp"
+            android:layout_marginHorizontal="12dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/border_13_white_fill"
+            android:layout_weight="2"
+            android:text="Tin tức"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.5"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+        <Button
+            android:layout_marginHorizontal="12dp"
+            android:id="@+id/btnTuvan"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/border_13_white_fill"
+            android:layout_weight="1"
+            android:text="Tư vấn"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btnCapnhat"
+            android:layout_marginHorizontal="12dp"
+            android:layout_width="0dp"
+            android:background="@drawable/border_13_white_fill"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Ghi chú"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+</LinearLayout>
